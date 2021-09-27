@@ -1,20 +1,22 @@
-###Grupo:
-##Nome:
+Grupo:
+
+
+Nome:
 Vitor Gobato Gercov
-##RA:
+RA:
 081180033
 
-##Nome:
+Nome:
 Renato Drigo Vieira
-##RA:
+RA:
 081180038
 
-##Nome:
+Nome:
 Christian Seki
-##RA:
+RA:
 082170004
 
-##Nome:
+Nome:
 Higor Reculiano
-##RA:
+RA:
 081180036
